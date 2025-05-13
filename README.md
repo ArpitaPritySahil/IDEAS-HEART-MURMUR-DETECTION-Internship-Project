@@ -12,6 +12,6 @@ The main application's implementation includes a horizontal menu for navigation 
 By including a "Report" section where users can download pre-made PDF reports, the main application is extended.
 
 ## Contributions
-- Arpita Ghosh Chowdhuary
+- Arpita Ghosh Chowdhury
 - Prity Naskar 
 - Sahil Biswas
